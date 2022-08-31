@@ -1,4 +1,4 @@
-8from pygismeteo import Gismeteo
+from pygismeteo import Gismeteo
 import telebot
 
 bot = telebot.TeleBot("5594186231:AAFxJWorbJxeHCZFwGXZVAdOVa_Yt9Wd26c")
